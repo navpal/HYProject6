@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+dev/styles/_animate.scss
+dev/styles/styles.scss
+dev/scripts/app.js
+dev/scripts/firebase.js
+
+
+
